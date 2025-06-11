@@ -38,7 +38,7 @@ This tool was developed with care by:
 
 All rights for this tool are reserved to:
 
-- **Copyright:** © 2023 **[Netfie](https://www.netfie.com)**.
+- **Copyright:** © 2025 **[Netfie](https://www.netfie.com)**.
 
 ## 📄 License
 
